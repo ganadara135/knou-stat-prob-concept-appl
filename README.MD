@@ -7,6 +7,7 @@ output: github_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+rpub.com 주소 : https://rpubs.com/kcod/891232
 
 ## 1번문제
 - 주사위 눈금별 상대도수에 대한 히스토그램 : 주사위를 반복수행하면 눈금별로 1/6에 수렴한다.
